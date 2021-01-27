@@ -1,8 +1,7 @@
 # Hiya, I'm YuChung!
 
 ## My Links:
-
-[<img align="left" alt="yuchungchuang.wordpress.com" width="22px" height="22px" src="https://raw.githubusercontent.com/alex1392/icons/master/Personal/wordpress.png" />][blog]
+[<img align="left" alt="yuchungchuang.wordpress.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />][blog]
 [<img align="left" alt="yuchung-chuang.webnode.com" width="22px" height="22px" src="https://raw.githubusercontent.com/alex1392/icons/master/Personal/globe-solid.svg" />][website]
 [<img align="left" alt="yuchung chuang | LinkedIn" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -35,7 +34,7 @@
 
 ---
 
-![alex1392's github stats](https://github-readme-stats.vercel.app/api?username=alex1392&show_icons=true)
+![alex1392's github stats](https://github-readme-stats.vercel.app/api?username=alex1392&show_icons=true&count_private=true&include_all_commits=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex1392&layout=compact)
 
 [website]: https://yuchung-chuang.webnode.tw/
