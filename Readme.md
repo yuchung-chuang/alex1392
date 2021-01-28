@@ -1,9 +1,10 @@
 # Hiya, I'm YuChung!
 
 ## My Links:
-[<img align="left" alt="yuchungchuang.wordpress.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />][blog]
-[<img align="left" alt="yuchung-chuang.webnode.com" width="22px" height="22px" src="https://raw.githubusercontent.com/alex1392/icons/master/Personal/globe-solid.svg" />][website]
-[<img align="left" alt="yuchung chuang | LinkedIn" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="yuchungchuang.wordpress.com" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />][blog]
+[<img align="left" alt="GitHub" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="yuchung chuang | LinkedIn" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="yuchung-chuang.webnode.com" width="26px" height="26px" src="https://raw.githubusercontent.com/alex1392/icons/master/Personal/globe-solid.svg" />][website]
 
 <br />
 
@@ -46,3 +47,4 @@
 [website]: https://yuchung-chuang.webnode.tw/
 [blog]: https://yuchungchuang.wordpress.com/
 [linkedin]: https://www.linkedin.com/in/yuchung-chuang/
+[github]:https://github.com/alex1392
