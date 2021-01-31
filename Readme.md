@@ -42,7 +42,10 @@
 ---
 
 ![alex1392's github stats](https://github-readme-stats.vercel.app/api?username=alex1392&show_icons=true&count_private=true&include_all_commits=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex1392&layout=compact&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex1392&layout=compact&count_private=true) 
+<!---
+test if commit triggers github stats updates
+-->
 
 [website]: https://yuchung-chuang.webnode.tw/
 [blog]: https://yuchungchuang.wordpress.com/
