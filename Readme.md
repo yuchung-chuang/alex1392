@@ -14,6 +14,7 @@
 <img align="left" alt="Matlab" width="26px" height="26px" src="https://raw.githubusercontent.com/alex1392/icons/master/Programming%20Language/matlab.png" />
 <img align="left" alt="Python" width="26px" height="26px" src="https://raw.githubusercontent.com/alex1392/icons/master/Programming%20Language/Python.png" />
 <img align="left" alt="Swift" width="26px" height="26px" src="https://raw.githubusercontent.com/alex1392/icons/master/Programming%20Language/Swift.png" />
+<img align="left" alt="Java" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 <img align="left" alt="HTML5" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
